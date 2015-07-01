@@ -1,6 +1,8 @@
-#generator-cg-angular
+#generator-tnr-angular
 
 >Yeoman Generator for Enterprise Angular Projects
+
+This generator is a fork of [cg-angular](https://github.com/cgross/generator-cg-angular).
 
 This generator follows the [Angular Best Practice Guidelines for Project Structure](https://blog.angularjs.org/2014/02/an-angularjs-style-guide-and-best.html?_escaped_fragment_=).
 
